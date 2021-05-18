@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "TimeToStudy",
+    "description": "Your buddy that keeps you focused during study hours! :)",
+    "version": "1.0",
+    "options_page": "options.html",
+    "permissions": ["storage", "tabs"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    }
+  }
