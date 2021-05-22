@@ -4,3 +4,8 @@ TimeToStudy este website-ul ce își propune să contribuie la evoluția elevilo
 De asemenea, TimeToStudy este și o extensie pentru browser-ul Chrome, care blochează website-urile ce pot face elevul să procrastineze sau să nu fie atent la lecții sau studiu. 
 
 Videoclip Vimeo: https://vimeo.com/553538170
+
+Aplicatia noastra se deschide printr-un screen creat special pentru utilizatorii care nu au cont (home.html). 
+Acesta vine cu o scurta prezentare a site-ului. In dreapta sus este pagina de conectare/ creare cont, care in cod este creare_cont.html si log_in.html.
+Dupa ce s-a conectat userul va fi redirectionat catre un screen personalizat, care momentan este mai mult de design si nu poate fi utilizat. 
+Din bara de navigare poate fi accesat daily plannerul (new.html), meet&chat (zoom.html) si descarcari (descarcari.html) care va oferi un tutorial pentru instalarea extensiei de chrome.
